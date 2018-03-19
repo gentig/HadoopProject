@@ -10,7 +10,7 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        WordCount.class,
+        WordCountTest.class
 })
 
 public class JUnitTestSuite {
